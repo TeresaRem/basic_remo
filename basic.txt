@@ -3,3 +3,7 @@ Created a new repo in GitHub "basic_repo"
 Created a local repository mkdir basic_repo
 add files touch index.html, basic.js, style.css and index.html
 made some changes, then add, commit ( even add message ignore the last commit etc) then push to GitHub
+in order to connect my local to the server
+"git remote add origin https://github.com/TeresaRem/basic_repo" 
+made some more changes to the local
+git status, git add, git commit -m, git push origin master "are the steps to communicate with my github server"
