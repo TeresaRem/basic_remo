@@ -7,3 +7,4 @@ in order to connect my local to the server
 "git remote add origin https://github.com/TeresaRem/basic_repo" 
 made some more changes to the local
 git status, git add, git commit -m, git push origin master "are the steps to communicate with my github server"
+added another branch and push and pull/merge
