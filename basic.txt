@@ -1,2 +1,5 @@
 Remote repo Assignment outlines
-Made a new repo in GitHub
+Created a new repo in GitHub "basic_repo"
+Created a local repository mkdir basic_repo
+add files touch index.html, basic.js, style.css and index.html
+made some changes, then add, commit ( even add message ignore the last commit etc) then push to GitHub
